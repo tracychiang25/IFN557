@@ -15,7 +15,7 @@ Details of how to fork a repository can be found here: https://docs.github.com/e
 
 ### Dependicies and how to install them
 Run the requirements.txt file to install all dependencies\
-Simply run this command on the terminal:\
+Simply run this command on the terminal:
 ```
 pip install -r requirements.txt
 ```

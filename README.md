@@ -8,10 +8,10 @@ Contribution can be made by fork and pull requests.\
 Details of how to fork a repository can be found here: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project \
 
 ### Technologies used
-    • HTML & Bootstrap (version 4), CSS
-    • Python & Flask
-    • Flask-WTForms
-    • Flask-SQLAlchemy
+• HTML & Bootstrap (version 4), CSS
+• Python & Flask
+• Flask-WTForms
+• Flask-SQLAlchemy
 
 ### Dependicies and how to install them
 Run the requirements.txt file to install all dependencies\

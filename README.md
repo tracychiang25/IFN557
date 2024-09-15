@@ -19,7 +19,12 @@ Simply run this command on the terminal:
 ```
 pip install -r requirements.txt
 ```
-
+### Run the project
+Run the project by running this command:
+```
+python run.py   
+```
+You can then access the application by using the default link http://127.0.0.1:5000, or by following the link provided in the terminal output.
 ### Issues report
 
 Please do not hesitate to reach out if you encounter any issues or have concerns regarding the application. \

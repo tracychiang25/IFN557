@@ -7,7 +7,7 @@ The main purpose of this application is to practice developing a web application
 Contribution can be made by fork and pull requests.\
 Details of how to fork a repository can be found here: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project \
 
-### Technologies used:
+### Technologies used
     • HTML & Bootstrap (version 4), CSS
     • Python & Flask
     • Flask-WTForms

@@ -5,16 +5,16 @@ This is a simple e-commerce website that sells perfume.
 ### Purpose and Contribution
 The main purpose of this application is to practice developing a web application that allows users to browse and add items into a shopping cart.\
 Contribution can be made by fork and pull requests.\
-Details of how to fork a repository can be found here: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project \
+Details of how to fork a repository can be found here: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project 
 
 ### Technologies used
 • HTML & Bootstrap (version 4), CSS\
 • Python & Flask\
 • Flask-WTForms\
-• Flask-SQLAlchemy\
+• Flask-SQLAlchemy
 
 ### Dependicies and how to install them
-Run the requirements.txt file to install all dependencies\
+Run the requirements.txt file to install all dependencies.\
 Simply run this command on the terminal:
 ```
 pip install -r requirements.txt
